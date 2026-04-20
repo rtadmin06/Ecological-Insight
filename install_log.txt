@@ -1,0 +1,1 @@
+python: can't open file 'c:\\Users\\½ðÓÑ¿Â\\Desktop\\change detection\\setup.py': [Errno 2] No such file or directory
